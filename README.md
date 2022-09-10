@@ -6,12 +6,12 @@
 
 ### 2021 4 mathorcup 杯
 
-![](/image/20214.jpg)
+![](/image/202104.jpg)
 论文找不到了
 
 ### 2021 6 桂林电子科技大学数模校赛
 
-![](/image/20216.jpg)
+![](/image/202106.jpg)
 论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/618.pdf)👈
 
 这篇论文的题目为中国人口的意见以及建议,是一个预测类模型
@@ -32,9 +32,9 @@
 
 ### 2021 9 高教社杯数模国赛
 
-![](/image/2022091.jpg)
+![](/image/2021091.jpg)
 
-![](/image/2022092.jpg)
+![](/image/2021092.jpg)
 
 论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/2021.pdf)👈
 
@@ -42,6 +42,16 @@
 
 ### 2022 4 mathorcup 杯
 
+![](/image/202204.jpg)
+
 论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/CMC2203201.pdf)👈
 
 这篇论文是一篇关于停车场最佳调整策略的论文,是一篇优化＋物理的模型
+
+### 2022 8 华数杯 杯
+
+![](/image/202208.jpg)
+
+论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/C2201730.pdf)👈
+
+这篇论文是一篇关于口罩熔喷布规律的探讨，是一篇数据分析的模型
