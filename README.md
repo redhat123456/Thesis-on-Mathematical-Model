@@ -86,7 +86,7 @@
 
 ### 2022 11 数维杯国际赛
 
-还不知道奖
+H 奖
 
 中文版论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/C2022100812763zh.pdf)👈
 
@@ -96,10 +96,12 @@
 
 ### 2022 11 小美赛（认证杯国际赛）
 
-还不知道奖
+H 奖
 
 中文版论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/1040Czh.pdf)👈
 
 英文版论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/1040Cen.pdf)👈
 
 这次比赛是关于人体行为特征识别的，写得还行。
+
+### 2023 1 亚太杯
