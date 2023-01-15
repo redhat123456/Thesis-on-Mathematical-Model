@@ -7,11 +7,14 @@
 ### 2021 4 mathorcup 杯
 
 ![](/image/202104.jpg)
-论文找不到了
+论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/D21200060022.pdf)👈
+
+这篇论文是我第一次除校赛以外的数模尝试，那时候建模四天吵了三天，最后一天写论文，结果挺意外的，但是不能说一点收获都没有吧。
 
 ### 2021 6 桂林电子科技大学数模校赛
 
 ![](/image/202106.jpg)
+
 论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/618.pdf)👈
 
 这篇论文的题目为中国人口的意见以及建议,是一个预测类模型
