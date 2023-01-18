@@ -89,7 +89,7 @@
 
 ### 2022 11 数维杯国际赛
 
-H 奖
+![](/image/2022111.png)
 
 中文版论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/C2022100812763zh.pdf)👈
 
