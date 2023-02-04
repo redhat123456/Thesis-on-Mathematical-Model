@@ -99,7 +99,7 @@
 
 ### 2022 11 小美赛（认证杯国际赛）
 
-H 奖
+![](/image/2022112.png)
 
 中文版论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/1040Czh.pdf)👈
 
