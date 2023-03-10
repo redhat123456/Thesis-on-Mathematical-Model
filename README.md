@@ -81,9 +81,9 @@
 
 ### 2022 9 数模国赛
 
-省二
+![](/image/2022091.jpg)
 
-论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/C2201730.pdf)👈
+论文下载：👉[点我下载](https://raw.githubusercontent.com/redhat123456/Thesis-on-Mathematical-Model/main/C题论文.pdf)👈
 
 一篇关于探讨古代玻璃成分数据的数学模型，写得还是很不错的，虽然没上国奖
 
